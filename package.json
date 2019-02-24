@@ -1,0 +1,29 @@
+{
+  "name": "liski",
+  "version": "1.0.0",
+  "description": "Not provided yet",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "export": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remnev/liski.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remnev/liski/issues"
+  },
+  "homepage": "https://github.com/remnev/liski#readme",
+  "dependencies": {
+    "@zeit/next-stylus": "^1.0.1",
+    "next": "^8.0.3",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "stylus": "^0.54.5"
+  }
+}
